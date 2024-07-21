@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonteilDotNet", "PonteilDotNet\PonteilDotNet.csproj", "{D03039C7-870A-4813-A4A2-CD706E95CC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonteilDotNet.Tests", "PonteilDotNet.Tests\PonteilDotNet.Tests.csproj", "{3857BE60-A5D8-4C57-94BA-E278E379FBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03039C7-870A-4813-A4A2-CD706E95CC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03039C7-870A-4813-A4A2-CD706E95CC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03039C7-870A-4813-A4A2-CD706E95CC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03039C7-870A-4813-A4A2-CD706E95CC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3857BE60-A5D8-4C57-94BA-E278E379FBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3857BE60-A5D8-4C57-94BA-E278E379FBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3857BE60-A5D8-4C57-94BA-E278E379FBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3857BE60-A5D8-4C57-94BA-E278E379FBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
